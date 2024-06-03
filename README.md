@@ -14,4 +14,5 @@ I'm Larry Copp, an online instructor for BYU Pathway Worldwide.
 - I am familiar with technologies like OAuth 2.0 and the Apigee API Gateway (now owned by Google)
 
 ## Let's Connect
-- My [LinkedIn](www.linkedin.com/in/larry-copp-293902a)
+- My [LinkedIn](www.linkedin.com/in/larry-copp-293902a) profile
+
