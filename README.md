@@ -1,16 +1,17 @@
-## Hi there 👋
+# Larry Copp
 
-<!--
-**copplarry/copplarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello Everyone 👋
+I'm Larry Copp, an online instructor for BYU Pathway Worldwide. 
 
-Here are some ideas to get you started:
+## About Me
+- I am currently instructing CSE 300 - Professional Readiness
+- I am also a Bishop and Temple Ordinance Worker in the Church of Jesus Christ of Latter-day Saints
+- I have an Amateur Extra Ham Radio license and enjoy reaching out around the USA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+- I am proficient in the following programming languages - C#, C++, Java, JavaScript, Python, and Typescript
+- I have used REST extensively in my work.
+- I am familiar with technologies like OAuth 2.0 and the Apigee API Gateway (now owned by Google)
+
+## Let's Connect
+- My [LinkedIn](www.linkedin.com/in/larry-copp-293902a)
