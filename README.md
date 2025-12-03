@@ -1,7 +1,7 @@
-# Test Student
+# Larry Copp
 
 ## Hello Everyone 👋
-I'm Test Student, an online instructor for BYU Pathway Worldwide. 
+I'm Larry Copp, an online instructor for BYU Pathway Worldwide. 
 
 ## About Me
 - I am currently instructing CSE 300 - Professional Readiness
